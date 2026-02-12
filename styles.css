@@ -1,0 +1,25 @@
+/* css styles */
+.highlight-text{
+    background-color:rgba(0, 206, 209, 0.13);
+    color: black;
+}
+
+.site-heading{
+    display: block;
+    font-size: 3em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    unicode-bidi: isolate;
+    text-align: center;
+}
+
+.bigger-text{
+    font-size: 20px;
+}
+
+/* a{
+    color: black;
+} */
