@@ -4,6 +4,10 @@
     color: black;
 }
 
+.note-text{
+    color: rgba(196, 196, 196, 0.884);
+}
+
 .site-heading{
     display: block;
     font-size: 3em;
