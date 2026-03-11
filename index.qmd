@@ -70,13 +70,13 @@ Outside of sector-specific laws, companies typically rely on user consent throug
 # Privacy Protection in the European Union
 ---
 
-In the European Union, individuals have a right to privacy *and* a separately codified right to data protection — enshrined in Article 8 of the EU Charter of Fundamental Rights. Unlike the United States, the EU has adopted a **comprehensive and unified regulatory framework** that applies across all 27 member states.
+In the European Union, individuals have a right to privacy *and* a separately codified right to data protection (enshrined in Article 8 of the EU Charter of Fundamental Rights.) Unlike the United States, the EU has adopted a **comprehensive and unified regulatory framework** that applies across all 27 member states.
 
 The central law governing personal data is the [**General Data Protection Regulation (GDPR)**](https://gdpr.eu/what-is-gdpr/). Enacted in 2018, the GDPR:
 
 - Establishes uniform rules for how personal data is collected, processed, stored, and transferred
 - Grants individuals **enforceable rights** over their own data
-- Imposes significant obligations on any organization that handles personal information — including non-EU companies that serve EU residents
+- Imposes significant obligations on any organization that handles personal information, including non-EU companies that serve EU residents
 
 ::: {.callout-note appearance="minimal"}
 ### The Broader EU Digital Regulatory Ecosystem
@@ -87,7 +87,7 @@ The GDPR doesn't stand alone. The EU has built a broader framework of digital go
 - **AI Act:** A risk-based regulatory system for artificial intelligence, with safeguards for fundamental rights
 - **Digital Markets Act (DMA):** Targets anti-competitive practices by major tech platforms.
 
-Together, these laws reflect an EU philosophy that digital life should be governed by **rights, accountability, and transparency** — not just market forces.
+Together, these laws reflect an EU philosophy that digital life should be governed by **rights, accountability, and transparency.** Not just market forces.
 :::
 
 In Germany, these European frameworks serve as a **baseline**. Germany applies EU law directly while also maintaining national provisions that can further strengthen how data protection is implemented domestically.
@@ -98,9 +98,9 @@ In Germany, these European frameworks serve as a **baseline**. Germany applies E
 
 ---
 
-As mentioned above, EU data protections are defined by the [**GDPR**](https://gdpr.eu/what-is-gdpr/). But in the GDPR's opening clauses, member states are permitted to tailor protections further. Germany takes full advantage of this — the **Bundes­daten­schutz­gesetz (BDSG)**, also known as the Federal Data Protection Act, supplements the GDPR at the national level.
+As mentioned above, EU data protections are defined by the [**GDPR**](https://gdpr.eu/what-is-gdpr/). But in the GDPR's opening clauses, member states are permitted to tailor protections further. Germany takes full advantage of this through the **Bundes­daten­schutz­gesetz (BDSG)**, also known as the Federal Data Protection Act, supplements the GDPR at the national level.
 
-Together, the GDPR and BDSG form the legal backbone for privacy in Germany — and they shape daily life in some surprisingly concrete ways.
+Together, the GDPR and BDSG form the legal backbone for privacy in Germany and they shape daily life in some surprisingly concrete ways.
 
 ---
 
@@ -135,7 +135,7 @@ Overall, millions of files documented individuals' movements, relationships, and
 ::: {.callout-important appearance="minimal"}
 ### The 1983 Census Ruling: A Turning Point
 
-In 1983, the German Federal Constitutional Court issued a landmark ruling in the **Volkszählungsurteil** (Census Judgment). The court declared that individuals have a constitutionally protected right to **"informational self-determination"** — the right to decide for themselves what personal data is shared, with whom, and for what purpose.
+In 1983, the German Federal Constitutional Court issued a landmark ruling in the **Volkszählungsurteil** (Census Judgment). The court declared that individuals have a constitutionally protected right to **"informational self-determination"**. The right to decide for themselves what personal data is shared, with whom, and for what purpose.
 
 This was a world-first. It became the philosophical and legal foundation for modern German (and eventually European) data protection law.
 :::
@@ -149,13 +149,13 @@ This was a world-first. It became the philosophical and legal foundation for mod
 
 ## Common Practices: How Privacy Shapes Everyday Life in Germany
 
-Privacy in Germany isn't just a legal concept — it's a **cultural value.** Here's how it plays out in situations you're likely to encounter.
+Privacy in Germany isn't just a legal concept, it's a **cultural value.** Here's how it plays out in situations you're likely to encounter.
 
 ---
 
 ### Photography & Filming in Public
 
-Germany has some of the strictest rules around photography of people in the EU — rooted in the **Kunsturhebergesetz (KUG)**, a law from *1907* that has been updated for the digital age.
+Germany has some of the strictest rules around photography of people in the EU, rooted in the **Kunsturhebergesetz (KUG)**, a law from *1907* that has been updated for the digital age.
 
 ::: {.grid}
 ::: {.g-col-6}
@@ -188,7 +188,7 @@ Taking a spontaneous group selfie with friends in a public square? Usually fine.
 
 ### Webcams & Surveillance Cameras
 
-Unlike many countries where CCTV cameras are nearly invisible in daily life, surveillance camera usage in Germany is comparatively limited — especially by private individuals and businesses.
+Unlike many countries where CCTV cameras are nearly invisible in daily life, surveillance camera usage in Germany is comparatively limited, especially by private individuals and businesses.
 
 - **Shops and businesses** may use cameras but must post visible signs (you have likely seen the small stickers: *"Videoüberwachung"*)
 - **Pointing a camera at your neighbor's property** even accidentally can be illegal
@@ -210,7 +210,7 @@ This is called the ***Meldepflicht*** (registration obligation), and it applies 
 
 Germany has a strong tradition of public protest, protected under **Article 8 of the Basic Law** (*Grundgesetz*). But privacy intersects with protest rights in important ways:
 
-- Police may **not photograph protesters** in a way that deters participation — this was affirmed in several court decisions
+- Police may **not photograph protesters** in a way that deters participation. This was affirmed in several court decisions
 - If you are photographed at a protest and the image is published, you may have legal recourse
 - Undercover surveillance of protests is strictly regulated
 
@@ -247,7 +247,7 @@ Overall, If you are new to Germany, here are a few things to keep in mind:
 
 **Your rights**
 
-- You have the right to know what data companies hold about you — and to request it
+- You have the right to know what data companies hold about you and the right to request it
 - You can request deletion of your data under the GDPR's *right to erasure*
 - You do not have to agree to data collection beyond what is strictly necessary for a service
 
@@ -284,7 +284,7 @@ Overall, If you are new to Germany, here are a few things to keep in mind:
 
 **Further Reading**
 
-- "The Right to Privacy" — Samuel D. Warren II and Louis Brandeis (1890)
+- "The Right to Privacy", Samuel D. Warren II and Louis Brandeis (1890)
 - *Volkszählungsurteil* (Census Judgment), BVerfG, 1983
 - [The Stasi Records Archive (BStU)](https://www.stasi-unterlagen-archiv.de/en/)
 - [Stasi: How the GDR kept its citizens under surveillance, DW](https://www.youtube.com/watch?v=Assdm6fIHlE)
